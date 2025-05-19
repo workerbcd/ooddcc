@@ -1,7 +1,7 @@
 # Improving Out-of-Distribution Detection via Dynamic Covariance Calibration
 
 
-## Installation
+## Preparetion
 
 - dataset
   
