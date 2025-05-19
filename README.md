@@ -1,5 +1,5 @@
 # Improving Out-of-Distribution Detection via Dynamic Covariance Calibration
-
+The paper has been accepted in ICM 2025
 
 ## Preparetion
 
