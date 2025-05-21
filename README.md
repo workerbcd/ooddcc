@@ -1,6 +1,7 @@
 # Improving Out-of-Distribution Detection via Dynamic Covariance Calibration
-The paper has been accepted in ICM 2025
+The paper has been accepted in ICML 2025
 
+This code is implemented based on https://github.com/ivalab/WDiscOOD
 ## Preparetion
 
 - dataset
