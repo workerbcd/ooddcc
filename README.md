@@ -2,7 +2,7 @@
 The paper has been accepted in ICML 2025
 
 This code is implemented based on https://github.com/ivalab/WDiscOOD
-## Preparetion
+## preparation
 
 - dataset
   
