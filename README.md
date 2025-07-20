@@ -59,3 +59,16 @@ run methods
 ```
 
 the code of our method is in the file  ```ood_scores/score_dynamic.py```
+
+## Citati
+
+```
+@inproceedings{
+guo2025improving,
+title={Improving Out-of-Distribution Detection via Dynamic Covariance Calibration},
+author={Kaiyu Guo and Zijian Wang and Tan Pan and Brian C. Lovell and Mahsa Baktashmotlagh},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=UjLxG9k4B6}
+}
+```
