@@ -60,7 +60,7 @@ run methods
 
 the code of our method is in the file  ```ood_scores/score_dynamic.py```
 
-## Citati
+## Citation
 
 ```
 @inproceedings{
